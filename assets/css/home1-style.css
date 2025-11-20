@@ -104,8 +104,7 @@
       position: relative; }
       .header-sa .imgs .cube img {
         position: relative;
-        width: 120%;
-        right: -100px;
+        width: 900px;
         bottom: -100px; }
       .header-sa .imgs .circle {
         position: absolute;
@@ -221,7 +220,7 @@
     border-radius: 50%;
     text-align: center; }
     .clients-sa .item .img {
-      width: 100px; }
+      width: 150px; }
     .clients-sa .item .cont .icon {
       width: 40px;
       margin: 0 auto 10px; }
@@ -565,10 +564,10 @@
       -ms-transform: translateY(70%);
       transform: translateY(70%); }
     .header-sa .imgs .cube img {
-          position: relative;
-          width: 160%;
-          right: 50px;
-          bottom: -50px; }
+              position: relative;
+              width: 900px;
+              right: 300px;
+              bottom: -50px; }
     .header-sa .imgs .circle {
       width: 200px; }
     .contact-sa .box {
