@@ -143,7 +143,7 @@
           width: 25px; }
         .services-sa .item .cont .icon.invert img {
           -webkit-filter: invert(1);
-          filter: invert(1); }
+          filter: invert(0); }
       .services-sa .item .cont .text {
         margin-top: 100px;
         margin-bottom: 20px; }
@@ -529,7 +529,7 @@
     .sec-head .sub-head {
       margin-bottom: 30px !important; }
     .header-sa {
-      padding: 180px 0 320px;
+      padding: 180px 0px 240px 0px;
       min-height: auto;
       position: relative; }
       .header-sa .caption {
@@ -565,7 +565,10 @@
       -ms-transform: translateY(70%);
       transform: translateY(70%); }
     .header-sa .imgs .cube img {
-      right: -30px; }
+          position: relative;
+          width: 160%;
+          right: 50px;
+          bottom: -50px; }
     .header-sa .imgs .circle {
       width: 200px; }
     .contact-sa .box {
